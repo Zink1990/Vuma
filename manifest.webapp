@@ -1,0 +1,18 @@
+﻿{
+	"name": "Vuma_Corp",
+	"description": "Vuma Corp. was created in a month for the \"Got Game?\" Competition.",
+	"version": "1.0",
+	"launch_path": "/",
+	"orientation": ["portrait", "landscape"],
+	"icons": {
+		"16": "/icon_16",
+		"32": "/icon_32",
+		"128": "/icon_128"
+	},
+	"developer": {
+		"name": "ING Studios",
+		"url": "http://morrison-titan.tumblr.com/"
+	},
+	"default_locale": "en",
+	"fullscreen": "true",
+}
